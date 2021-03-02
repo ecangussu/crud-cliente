@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Lúcia', '486.584.692-35', 2500.00, TIMESTAMP WITH TIME ZONE '1985-07-14T00:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Lúcia', '486.584.692-35', 2500.00, TIMESTAMP WITH TIME ZONE '1985-07-14T00:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Lúcia', '486.584.692-35', 2500.00, TIMESTAMP WITH TIME ZONE '1985-07-14T00:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Lúcia', '486.584.692-35', 2500.00, TIMESTAMP WITH TIME ZONE '1985-07-14T00:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Lúcia', '486.584.692-35', 2500.00, TIMESTAMP WITH TIME ZONE '1985-07-14T00:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Lúcia', '486.584.692-35', 2500.00, TIMESTAMP WITH TIME ZONE '1985-07-14T00:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Lúcia', '486.584.692-35', 2500.00, TIMESTAMP WITH TIME ZONE '1985-07-14T00:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Lúcia', '486.584.692-35', 2500.00, TIMESTAMP WITH TIME ZONE '1985-07-14T00:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Lúcia', '486.584.692-35', 2500.00, TIMESTAMP WITH TIME ZONE '1985-07-14T00:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Lúcia', '486.584.692-35', 2500.00, TIMESTAMP WITH TIME ZONE '1985-07-14T00:00:00Z', 3);
