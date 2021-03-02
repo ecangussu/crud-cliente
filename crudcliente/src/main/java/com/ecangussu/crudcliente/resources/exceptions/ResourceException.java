@@ -13,7 +13,7 @@ import com.ecangussu.crudcliente.services.exceptions.DataBaseException;
 import com.ecangussu.crudcliente.services.exceptions.ResourceNotFoundException;
 
 @ControllerAdvice
-public class ResourceExceotion {
+public class ResourceException {
 	
 	@ExceptionHandler(ResourceNotFoundException.class)
 	public ResponseEntity<StandardError> entityNotFound(ResourceNotFoundException e, HttpServletRequest request) {
